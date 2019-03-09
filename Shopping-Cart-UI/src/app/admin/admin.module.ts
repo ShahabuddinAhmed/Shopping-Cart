@@ -9,6 +9,11 @@ import { AddProductComponent } from './add-product/add-product.component';
   imports: [
     CommonModule
   ],
-  declarations: [CategoryComponent, AdminLoginComponent, AdminRegisterComponent, AddProductComponent]
+  declarations: [
+    CategoryComponent,
+    AdminLoginComponent,
+    AdminRegisterComponent,
+    AddProductComponent
+  ]
 })
 export class AdminModule { }
